@@ -1,12 +1,3 @@
-Go back to Heather's video and see if we can get more tips like:
-
-1) Identify your target audience
-2) Create a powerful first sentence(Solve a pain point)
-3) Tell a compelling story
-4) Call to action
-5) End with personality 
-
-
 I am an ambitious youth who is studying at Year Up in the Software development and support path. 
 I have fundamental background skills in database, and data warehouse development, business intelligence, cloud services, software engineering knowledge, and data visualization tools like power bi. 
 
